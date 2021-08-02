@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @milenabrankovic
-- 👀 I’m interested in Big Data, Data Science and Web Development
-- 🌱 I’m currently learning Python and Big Data technologies
-- 💞️ I’m looking to collaborate on Data Science and Big Data projects
+- 👀 I’m interested in Web Development, Big Data and Data Science
+- 🌱 I’m currently learning Python and working on Laravel projects
 - 📫 How to reach me - https://www.linkedin.com/in/milena-brankovic
 
 <!---
